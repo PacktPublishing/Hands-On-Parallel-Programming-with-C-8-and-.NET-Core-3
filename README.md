@@ -51,7 +51,7 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781789132410_ColorImages.pdf).
 
 ### Related products
-*  [[Packt]](https://www.packtpub.com/programming/hands-on-software-architecture-with-c-8?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789800935)
+* Hands-On Software Architecture with C# 8 and .NET Core 3 [[Packt]](https://www.packtpub.com/programming/hands-on-software-architecture-with-c-8?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789800935)
 
 * Hands-On Design Patterns with C# and .NET Core  [[Packt]](https://www.packtpub.com/in/application-development/hands-design-patterns-c-and-net-core?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789133645)
 
